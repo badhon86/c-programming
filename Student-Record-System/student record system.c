@@ -368,7 +368,7 @@ void main_window(){
 
 int main(){
     ClearConsoleToColors(17,15);
-    SetConsoleTitle("Programming-technique.blogspot.com - Student Record System");
+    SetConsoleTitle("Badhon sarkar - Student Record System");
     window();
     //use_pass_field();
     main_window();
